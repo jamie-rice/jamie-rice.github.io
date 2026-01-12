@@ -27,3 +27,5 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
  Security Engineer looking for a role that utilizes offensive security techniques, where I can leverage learnings from my MSc and current OSCP pursuit.
+
+ Please reach out to me at : jamierice033@gmail.com
