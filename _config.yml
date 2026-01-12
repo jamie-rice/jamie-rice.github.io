@@ -188,6 +188,7 @@ exclude:
   - _pages/cv.md
   - _pages/news.md
   - _pages/publications.md
+  - _pages/projects.md
   - bin/
   - CONTRIBUTING.md
   - CUSTOMIZE.md
