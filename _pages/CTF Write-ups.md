@@ -1,11 +1,11 @@
 ---
 layout: page
-title: ctfs
+title: CTFs
 permalink: /ctfs/
-description: Write ups of the CTFs I have found to be more interesting
+description: Here are all the write-ups for the CTFs I find to be interesting. If you are looking for other security related writings please look at the blog.
 nav: true
 nav_order: 3
-display_categories: [work, fun]
+display_categories: false
 horizontal: false
 ---
 
