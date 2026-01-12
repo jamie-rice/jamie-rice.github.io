@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <p> Security Engineer looking for a role that utilizes offensive security techniques, where I can leverage learnings from my MSc and current OSCP pursuit. </p>
+subtitle: Documenting bits and pieces that interest me in the field of Cyber Security 😄
 
 profile:
   align: right
@@ -26,3 +26,4 @@ latest_posts:
   scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
   limit: 3 # leave blank to include all the blog posts
 ---
+ Security Engineer looking for a role that utilizes offensive security techniques, where I can leverage learnings from my MSc and current OSCP pursuit.
