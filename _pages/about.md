@@ -2,11 +2,11 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+subtitle: <p> Security Engineer looking for a role that utilizes offensive security techniques, where I can leverage learnings from my MSc and current OSCP pursuit. </p>
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: jamie-cn-tower.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
     <p>📍 Toronto, Canada 🇨🇦 </p>
