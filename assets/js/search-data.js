@@ -16,12 +16,12 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/blog/";
           },
-        },{id: "nav-projects",
-          title: "projects",
-          description: "A growing collection of your cool projects.",
+        },{id: "nav-ctfs",
+          title: "ctfs",
+          description: "Write ups of the CTFs I have found to be more interesting",
           section: "Navigation",
           handler: () => {
-            window.location.href = "/projects/";
+            window.location.href = "/ctfs/";
           },
         },{id: "nav-repositories",
           title: "repositories",
