@@ -186,7 +186,7 @@ kramdown:
 include: ["_pages", "_scripts"]
 exclude:
   - _pages/cv.md
-  - _pages/news.md
+#  - _pages/news.md
   - _pages/publications.md
   - _pages/projects.md
   - _pages/profiles.md
