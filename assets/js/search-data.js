@@ -16,13 +16,6 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/blog/";
           },
-        },{id: "nav-ctf-write-ups",
-          title: "CTF Write-ups",
-          description: "Here are all the write-ups for the CTFs I find to be interesting. If you are looking for other security related writings please look at the blog.",
-          section: "Navigation",
-          handler: () => {
-            window.location.href = "/ctfs/";
-          },
         },{id: "post-application-security-study-resources",
         
           title: "Application Security study resources",
