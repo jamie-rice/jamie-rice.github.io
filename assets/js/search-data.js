@@ -23,7 +23,18 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/ctfs/";
           },
-        },{id: "post-a-post-with-code",
+        },{id: "post-application-security-study-resources",
+        
+          title: "Application Security study resources",
+        
+        description: "Collection of AppSec resources I have found to be useful/",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2026/resources/";
+          
+        },
+      },{id: "post-a-post-with-code",
         
           title: "a post with code",
         
