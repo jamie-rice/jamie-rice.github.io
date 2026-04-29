@@ -26,6 +26,9 @@ latest_posts:
   scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
   limit: 3 # leave blank to include all the blog posts
 ---
+
+ This website is currently being developed, posts to begin late this week or early next! 😃
+
  Security Engineer looking for a role that utilizes offensive security techniques, where I can leverage learnings from my MSc and current OSCP pursuit.
 
  Please reach out to me at : jamierice033@gmail.com
