@@ -16,26 +16,15 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/blog/";
           },
-        },{id: "post-application-security-study-resources",
+        },{id: "post-placer-holder",
         
-          title: "Application Security study resources",
+          title: "placer holder",
         
-        description: "Collection of AppSec resources I have found to be useful/",
+        description: "test post",
         section: "Posts",
         handler: () => {
           
             window.location.href = "/blog/2026/resources/";
-          
-        },
-      },{id: "post-a-post-with-code",
-        
-          title: "a post with code",
-        
-        description: "an example of a blog post with some code",
-        section: "Posts",
-        handler: () => {
-          
-            window.location.href = "/blog/2015/code/";
           
         },
       },{id: "books-the-godfather",
