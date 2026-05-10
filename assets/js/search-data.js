@@ -16,11 +16,11 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/blog/";
           },
-        },{id: "post-placer-holder",
+        },{id: "post-application-security-learning-materials",
         
-          title: "placer holder",
+          title: "Application Security Learning Materials",
         
-        description: "test post",
+        description: "Some of my favourite resources to learn with, putting my procrastination to some use.",
         section: "Posts",
         handler: () => {
           
