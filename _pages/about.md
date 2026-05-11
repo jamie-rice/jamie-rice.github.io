@@ -27,8 +27,28 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
- This website is currently being developed, posts to begin late this week or early next! 😃
+Hellooo, I’m Jamie Rice 👋🏻
 
- Security Engineer looking for a role that utilizes offensive security techniques, where I can leverage learnings from my MSc and current OSCP pursuit.
+This website will mainly focus on Cyber Security topics, but it certainly will not be limited to just this, stick around to see what else I end up writing about 🧐
 
- Please reach out to me at : jamierice033@gmail.com
+💻 
+A bit on my career so far and what I am looking for next: 
+
+ I am a Security engineer with experience in Application Security & DevSecOps Automation. I spent just over a year at my previous role before moving to Toronto with my girlfriend. I am currently studying for the OSCP whilst I settle into a new life in Toronto and continue job searching and upskilling in Application Security too.
+
+I have a Bsc in Information Systems from Heriot-Watt in Edinburgh. and an MSc In Ethical Hacking & Cyber Security from Abertay University in Dundee. 
+ 
+ Roles I am looking for include - but certainly not limited too are … 
+ 
+ - Application / Product Security Engineer
+ - Any Offensive Security role (Offensive Security testing, Pen Testing, also 'Purple Teaming' etc)
+ - Security / Vulnerability Research 
+
+I do love all things Cyber Security though so please get in touch if you have any opportunities.
+
+😎
+Some of my other interests include running, football (⚽️), producing music (although I have had less time for this recently), becoming a big Baseball convert and getting distracted by flightradar24 ✈️.  
+
+
+For any questions please reach out to me at : jamierice033@gmail.com
+

@@ -54,7 +54,7 @@ Two corresponding articles by HTB and Pentester Labs on code review
 If you are looking for free resources, there are plenty of these too: 
 - [OWASP Secure Coding Dojo](https://owasp.org/SecureCodingDojo/codereview101/) These are snippet comparisons where you chose what you think is the vulnerable code, it refreshes each time you visit so you can keep testing so it sinks in. 
 - A huge bank of vulnerable code to analyse in secure code review challenges has been created by dub-flow on Github which can be found [here](https://github.com/dub-flow/secure-code-review-challenges). Some of these have video walk throughs. This is a great resource for exposure to as many examples as possible.
-- I haven’t dived into this repo but its worth mentioning : https://github.com/dehvCurtis/vulnerable-code-examples
+- I haven’t dived into this repo but its worth mentioning, [dehv Curtis vuln code examples](https://github.com/dehvCurtis/vulnerable-code-examples)
 - VulnHub has specific code review boxes (Secure Code, Pipe, Crypto Bank, Zorz, Potato, Ted).
 
 Finally - I think its worth mentioning this [handy resource bank on Github](https://github.com/d3lb3/security-code-review?tab=readme-ov-file#training-materials) (I know im trying to avoid big banks with lots of links by writing this blog post but It's worth bookmarking for when you need more to learn from! )
@@ -66,7 +66,7 @@ So I covered some books, made an obligatory mention of WAHH and Port Swigger and
 
 - Portswigger, you can either do their [curated paths](https://portswigger.net/web-security/learning-paths) , or just pick a [specific topic](https://portswigger.net/web-security/all-topics) 
 - [SnykLearn](https://learn.snyk.io/user/learning-progress)
-- AppSec Master(https://www.appsecmaster.net/en/challenges?tab=snippets)
+- A[ppSec Master](https://www.appsecmaster.net/en/challenges?tab=snippets)
 - https://websec.fr/ (Web App CTF’s) 
 - [Kontra Labs](https://application.security/free/owasp-top-10)
 

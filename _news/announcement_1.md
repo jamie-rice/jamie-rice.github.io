@@ -1,8 +1,8 @@
 ---
 layout: post
-date: 2026-01-12 22:04:00-0500
+date: 2026-05-10 17:04:00-0500
 inline: true
 related_posts: false
 ---
 
-Test announcment - static website created! 
+This website is slowly being updated, got a backdate of writings and rambles and I will be getting around to uploading 😃
